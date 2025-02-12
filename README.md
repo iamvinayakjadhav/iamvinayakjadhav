@@ -1,3 +1,4 @@
+<h2 align="left">Hi folks 👋! I am Vinayak Jadhav, a Java Full Stack Developer from India.</h2>
 # 💫 About Me:
 🔭 I’m currently working on full-stack web development with Java and React.js<br>👯 I’m looking to collaborate on open-source projects and web applications<br>🌱 I’m currently learning AWS services, design patterns, and advanced Java concepts<br>💬 Ask me about Java, SQL, React.js, and cloud technologies<br>⚡ Fun fact: I love exploring new programming languages and frameworks!<br>🚀 I’m passionate about building scalable and efficient software solutions
 
